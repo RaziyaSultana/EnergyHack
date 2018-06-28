@@ -44,8 +44,6 @@ dependencies {
    
 }
 ```
-Link to apk file: https://github.com/RaziyaSultana/EnergyHack/tree/master/app/build/outputs/apk/debug
-
 
 Support
 -------
